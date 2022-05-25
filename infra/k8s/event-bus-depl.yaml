@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: event-bus
-          image: fgscaglioni/event-bus:0.0.1
+          image: fgscaglioni/event-bus
 ---
 apiVersion: v1
 kind: Service
